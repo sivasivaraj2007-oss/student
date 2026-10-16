@@ -1,0 +1,6 @@
+{
+  "name": "IIE Attendance",
+  "description": "Student Attendance Management System for Info Institute of Engineering, IT Department",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
